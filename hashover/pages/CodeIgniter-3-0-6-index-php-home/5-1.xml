@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment>
+	<body>
+		this is good
+	</body>
+	<status>approved</status>
+	<date>2016-07-19T13:14:31-0700</date>
+	<name>Teddy</name>
+	<password>$2y$10$1Y2IyxvNozPul3aDp6V/$.tdw.OJFtVg3WFtbFQT57BJ5ikfGqP2a</password>
+	<login_id>e97df96c6b178eaec05c14f8978e69a6acbafae6</login_id>
+	<email>vD9ryO8kkPAnfXrglelGH7FGHNkRFcBle5VNueC3T4LFl/b4C4a2ocHmwU8wPUPv</email>
+	<encryption>4,8,10,0,10,9,18,0,1,4,2,2,17,10,3,46</encryption>
+	<email_hash>9083377d66c8244ed9de3b54e7f38466</email_hash>
+	<notifications>yes</notifications>
+</comment>

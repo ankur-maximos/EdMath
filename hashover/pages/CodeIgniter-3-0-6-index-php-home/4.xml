@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment>
+	<body>
+		My first comment
+	</body>
+	<status>approved</status>
+	<date>2016-07-19T13:13:14-0700</date>
+	<name>Teddy</name>
+	<password>$2y$10$T3g.YbpmGv/nAP2Khreq$.GtFRix1R3MSD9KKmjuZaP8eWS/0EsTS</password>
+	<login_id>e97df96c6b178eaec05c14f8978e69a6acbafae6</login_id>
+	<email>w9SLA1min298QjbY4pJU6vYO+sTd/sc+IY45Oj0XEq/kCtayEeiEt0XBEqao69M/</email>
+	<encryption>8,10,0,4,2,7,18,17,0,1,8,3,24,18,46,18</encryption>
+	<email_hash>9083377d66c8244ed9de3b54e7f38466</email_hash>
+	<notifications>yes</notifications>
+</comment>
