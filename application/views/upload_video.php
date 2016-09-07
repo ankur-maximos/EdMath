@@ -11,7 +11,6 @@
 
  </head>
  <body>
- <?php asset_url("hashover.js")?>
  	
 <!-- Latest compiled and minified JavaScript -->
 
@@ -30,10 +29,10 @@
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
             <li><a href="#">Dashboard</a></li>
-            <li><a href="home/upload_video">Upload Video</a></li>
+            <li><a href="#">Upload Video</a></li>
             <li><a href="#">Settings</a></li>
             <li><a href="#">Profile</a></li>
-            <li><a href="home/logout">Logout</a></li>
+            <li><a href="logout">Logout</a></li>
           </ul>
           <form class="navbar-form navbar-right">
             <input type="text" class="form-control" placeholder="Search...">
@@ -60,21 +59,9 @@
             <li><a href="">My Uploads</a></li>
             <li><a href="">MyComments</a></li>
           </ul>
-        </div>
-
-        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main" style="float: none;">
-        	<div>
-        	<video width="640" height="400" controls="controls" src="http://localhost:1935/vod/mp4:sample.mp4/playlist.m3u8">
-            </video> 
-            </div>
-        <div class="comments">
-        	<h2>Comments?</h2>
-     		<script type="text/javascript" src="<?php echo base_url(); ?>hashover/hashover.js"></script>
-    		<noscript>Please enable JavaScript to view the comments.</noscript>
-    	</div>
-	</div>
-</div>
-</div>
+        </div>    
+      </div>
+    </div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
